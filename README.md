@@ -1,1 +1,1 @@
-# yandex
+[Warhammer 40,000 7th edition Wahapedia](https://scoolov.github.io/wh40000rules/)
